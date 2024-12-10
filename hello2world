@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Afleveringen" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/stle.css">
+    <title>Afleveringen</title>
+    <nav>
+        <ul>
+            <li><a href="tweede.html">over ons</a></li>
+            <li><a href="derde.html">aflevering</a></li>
+            <li><a href="index.html">mystryo en mystiek</a></li>
+        </ul>
+    </nav>
+</head>
+<body>
+    <h1>Afleveringen</h1>
+    <h2>narscissus</h2>
+    <p>onderwereld bla bla bla bla bal</p>
+    <img src="images/Unknown-3" alt="">
+    <h2>wikipedie mythologie</h2>
+    <p>Een mythologie is het geheel van verhalen en denkbeelden van een bepaalde cultuur waarin belangrijke vragen aan bod komen zoals de oorsprong van de mens, de wereld en natuurverschijnselen. Een mythologie kan in de loop van de tijd veranderen en meegroeien met veranderende omstandigheden.[1] Ze wordt als waarheid beschouwd en bruikbaar binnen de cultuur waarin ze functioneert, omdat mythen filosofische reflecties, normen, waarden en historische gebeurtenissen uitdrukken. Mythologie komt onder andere tot uiting in muziek, literatuur, geschiedschrijving, religie en beeldende kunst.
+
+        Om de mens en zijn cultuur goed te begrijpen, wordt mythologie al sinds de klassieke oudheid bestudeerd vanuit diverse benaderingen. Sinds de negentiende eeuw is mythologie een studieobject van onder anderen antropologen, sociologen, historici, psychologen en letterkundigen. Het doel van onderzoek naar mythen is er de oorsprong, ontwikkeling en betekenis van te achterhalen, waarbij meer geleerd wordt over religieuze praktijken, het wereldbeeld van groepen mensen en hun cultuur in het algemeen. Zo zijn mythen opgevat als verhalen die moraliseren, educatief zijn en gegeven elementen van een samenleving rechtvaardigen. De bestudering van mythologie richt zich ook op </p>
+ <h2>en verder</h2>
+  
+    <h2>in de musea</h2>
+    <h3>rijks musea</h3>
+    <p>Mythologie' komt van het Griekse woord muthos, dat ‘gesproken woord’ of ‘verhaal’ betekent. Een mythe is een verhaal over goden of halfgoden. Het geheel van al die verhalen noemt men mythologie. In principe heeft iedere cultuur zijn eigen mythologie. Meestal worden echter de verhalen uit de klassieke oudheid bedoeld, wanneer men het over mythologie heeft. Daarin spelen de Griekse en Romeinse goden de hoofdrol. Deze goden wonen op de berg Olympus, voor de mensen onbereikbaar ver, maar ze bemoeien zich wel op grote schaal met de mensheid. Oppergod Zeus (Jupiter bij de Romeinen) heeft bijvoorbeeld diverse kinderen bij sterfelijke geliefden. Sinds de renaissance heeft de klassieke mythologie in hoge mate de inhoud van de westerse kunst en de literatuur bepaald. De liefdes- en oorlogsverhalen tussen de goden onderling en tussen goden en mensen spraken tot de verbeelding en komen veelvuldig terug in de beeldende en de toegepaste kunst.
+        - </p>
+</body>  
+</html>
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="mytologie" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/stle.css">
+    <title>Hello world people</title>
+</head>
+<body>
+    <header>
+         <img src="images/Unknown" alt="">
+        <nav>
+            <ul>
+                <li><a href="tweede.html">over ons</a></li>
+                <li><a href="derde.html">Afleveringen</a></li>
+                <li><a href="index.html">mystro en mystiek</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Mytro & Mystiek</h1>
+         <h2>Helden van vroeger</h2>
+        <p>Welkom in de atmosfeer van <strong><em>Zeus!</em></strong> Wij zijn de ...... en wij zijn sinds 2020 gestart met onze podcast over Griekse mythologie. Wij hebben elke week een nieuwe aflevering klaarstaan over verschillende onderwerpen binnen deze wereld. Tune in en ontdek pakkende verhalen die worden verteld door onze experts: Antonia Gonzales (23), Josh Adams (21) en Lee Spring (27).  Stel gerust je vragen op onze website en misschien wordt die wel tijdens een aflevering behandelt!</p>
+         <h2>mthyro</h2>
+        <p>Zijn de verhalen over de Griekse goden echt gebeurt? Zijn er nog steeds mensen die erin geloven? In onze podcast serie vertellen Antonio, Josh en Lee alle verhalen en avonturen van de Griekse mythologie. in de eigen studio van Josh komen ze bij elkaar om hun interesses met elkaar en de luisteren te delen. Dit doen ze doormiddel van een interactieve podcast</p>
+         <h2>Rijksmuseum tekts hierover</h2>
+        <p>Mythologie' komt van het Griekse woord muthos, dat ‘gesproken woord’ of ‘verhaal’ betekent. Een mythe is een verhaal over goden of halfgoden. Het geheel van al die verhalen noemt men mythologie. In principe heeft iedere cultuur zijn eigen mythologie. Meestal worden echter de verhalen uit de klassieke oudheid bedoeld, wanneer men het over mythologie heeft. Daarin spelen de Griekse en Romeinse goden de hoofdrol. Deze goden wonen op de berg Olympus, voor de mensen onbereikbaar ver, maar ze bemoeien zich wel op grote schaal met de mensheid. Oppergod Zeus (Jupiter bij de Romeinen) heeft bijvoorbeeld diverse kinderen bij sterfelijke geliefden. Sinds de renaissance heeft de klassieke mythologie in hoge mate de inhoud van de westerse kunst en de literatuur bepaald. De liefdes- en oorlogsverhalen tussen de goden onderling en tussen goden en mensen spraken tot de verbeelding en komen veelvuldig terug in de beeldende en de toegepaste kunst.
+            - </p>
+
+
+
+            <article>
+                <div>mythos en mystiek in tokyo in auto</div>
+            </article>
+
+            <article>vliegen samen naar de tempel binnen</article>
+
+            <article>gekkwerk is een podcast op yourube</article>
+    </main>
+    <footer>
+
+    </footer>
+
+        
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="over ons" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/stle.css">
+    <title>Over ons</title>
+    <nav>
+        <ul>
+            <li><a href="derde.html">derde</a></li>
+            <li><a href="tweede.html">tweede</a></li>
+            <li><a href="index.html">home</a></li>
+        </ul>
+    </nav>
+</head>
+<body>
+   <h1>Over ons</h1>
+   <h2>de podcast</h2>
+        <p>Met Spotify kun je makkelijk de juiste muziek of podcast vinden voor elk moment – op onder andere je telefoon, je computer en je tablet.
+         Er staan miljoenen nummers en afleveringen op Spotify. Dus of je nu in de auto zit, aan het sporten bent, een feestje viert of lekker aan het relaxen bent, je hebt altijd de juiste muziek of podcast binnen handbereik. Kies waarnaar je wilt luisteren of laat je verrassen door Spotify.
+         Je kunt ook bladeren door de collecties van vrienden, artiesten en beroemdheden of een radiostation maken en lekker achterover gaan zitten.
+         Maak de soundtrack van je leven met Spotify. Neem een abonnement of luister gratis.</p>
+    <h2>maak kennis</h2>
+            <p>wij zijn Antonio, josh en Lee en wij zijn super geintresseerd om jullie meer te vertellen over het leven
+                als mensen die uitleggen over griekse goden etc etc kbehrbfhrbfrehbfrrhbbvrbv </p>
+                <img src="images/Unknown-2" alt="">
+<h2>contact</h2>
+<p>je kan osn verder bereiken of meer lezen op de volgende sites</p>
+
+    <h2>rijksmusea in mythologie</h2>
+    <p>Mythologie' komt van het Griekse woord muthos, dat ‘gesproken woord’ of ‘verhaal’ betekent. Een mythe is een verhaal over goden of halfgoden. Het geheel van al die verhalen noemt men mythologie. In principe heeft iedere cultuur zijn eigen mythologie. Meestal worden echter de verhalen uit de klassieke oudheid bedoeld, wanneer men het over mythologie heeft. Daarin spelen de Griekse en Romeinse goden de hoofdrol. Deze goden wonen op de berg Olympus, voor de mensen onbereikbaar ver, maar ze bemoeien zich wel op grote schaal met de mensheid. Oppergod Zeus (Jupiter bij de Romeinen) heeft bijvoorbeeld diverse kinderen bij sterfelijke geliefden. Sinds de renaissance heeft de klassieke mythologie in hoge mate de inhoud van de westerse kunst en de literatuur bepaald. De liefdes- en oorlogsverhalen tussen de goden onderling en tussen goden en mensen spraken tot de verbeelding en komen veelvuldig terug in de beeldende en de toegepaste kunst.
+        - </p>
+</body>
+</html>
